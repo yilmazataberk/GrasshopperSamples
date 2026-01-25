@@ -2,7 +2,7 @@ A collection of algorithmic design studies exploring the intersection of archite
 
 ## About the Author
 Ataberk Yilmaz
-*PhD Candidate | M.Arch | Computational Designer*
+*PhD Candidate | Computational Designer*
 
 ## Contact & Inquiries
 * **LinkedIn:** https://www.linkedin.com/in/ataberkyilmaz9/
